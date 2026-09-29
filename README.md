@@ -1,9 +1,5 @@
 # AegisAI_v2
 
-## 본인 역할 (이정재) — AI 파트
-- 정적분석 도구와 AI 판정을 결합한 닫힌 루프 검증 구조 설계: AI가 고친 코드를 정적분석으로 재검사해 통과한 결과만 남기는 파이프라인 방향 담당
-- 취약점 수정 모델의 학습 데이터셋 고도화 및 파인튜닝 담당(학습은 외부 GPU 서버에서 진행)
-
 ## Start Here
 
 This repository is organized around an agent-first MVP baseline for AegisAI.
